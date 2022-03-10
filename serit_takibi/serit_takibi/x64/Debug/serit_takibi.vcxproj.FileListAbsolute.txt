@@ -1,0 +1,2 @@
+C:\Users\savaseeratesli\Desktop\serit_takibi\serit_takibi\x64\Debug\serit_takibi.exe
+C:\Users\savaseeratesli\Desktop\serit_takibi\serit_takibi\x64\Debug\serit_takibi.pdb

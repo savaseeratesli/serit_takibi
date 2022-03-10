@@ -1,0 +1,4 @@
+﻿  Kaynak.cpp
+C:\Users\savaseeratesli\Desktop\serit_takibi\serit_takibi\Kaynak.cpp(68,21): warning C4244: '=': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+C:\Users\savaseeratesli\Desktop\serit_takibi\serit_takibi\Kaynak.cpp(74,21): warning C4244: '=': '__int64' - 'int' dönüşümü; veri kaybı olabilir
+  serit_takibi.vcxproj -> C:\Users\savaseeratesli\Desktop\serit_takibi\serit_takibi\x64\Debug\serit_takibi.exe
